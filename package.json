@@ -1,0 +1,28 @@
+{
+  "name": "awesome-keyson-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Key神 Awesome-Keyson local form-filling MVP",
+  "type": "module",
+  "bin": {
+    "form-filler": "./dist/cli/index.js"
+  },
+  "scripts": {
+    "build": "tsc && node scripts/prepare-cli.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "npm run build && node --test dist/test/*.test.js"
+  },
+  "engines": {
+    "node": ">=24.7.0"
+  },
+  "formFiller": {
+    "browser": {
+      "command": "ego-browser",
+      "runtime": "nodejs"
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^24.7.2",
+    "typescript": "^5.9.2"
+  }
+}
