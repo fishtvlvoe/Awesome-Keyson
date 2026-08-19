@@ -19,11 +19,13 @@
 
 👉 **貼上表單網址 ➔ 智慧語意辨識中英文欄位 ➔ 本機 AES-256 零知識安全金庫自動填入 ➔ 彈出視窗等你確認後才送出**！
 
+
 ---
 
-## 👑 「神」系列家族成員與完整協同鏈
+<!-- GODS-FAMILY:START -->
+## 👑 「神」系列家族：彼此怎麼接力合作？
 
-「神」系列是一條從商務接案、工程開發到產品交付的完整協同流水線：
+「神」系列不是各自為政的工具，而是一條從**商務接案、工程開發到成果交付**的完整流水線：
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -31,22 +33,33 @@
 └─────────────────────────────────────────────────────────────────────────┘
 
 【第一棒：接案與商務需求】
-  📋 案神 (Awesome-Anson) ➔ 讀逐字稿與資料，自動拆解需求、產出報價單與簡報。
+  📋 案神 (Awesome-Anson) ➔ 丟進客戶會議逐字稿與資料，自動拆解需求、產出報價單與簡報。
          │
-         ▼ (需求確認，交棒給工程總管)
+         ▼ (客戶成交，需求確認，交棒給工程總管)
 【第二棒：自動化工程開發】
-  🏗️ 蓋神 (Awesome-Gason) ➔ 轉 Spectra 規格，指揮多 Agent 隔離寫碼、TDD 與驗收。
+  🏗️ 蓋神 (Awesome-Gason) ➔ 把需求轉成 Spectra 規格，指揮多 Agent 在隔離房間寫碼與驗收。
          │
-         ├─► 🗣️ 譯神 (Awesome-Eason) ➔ 遇技術天書或文案太假？隨時叫「譯神」說人話、去 AI 味。
+         ├─► 🗣️ 譯神 (Awesome-Eason) ➔ 過程中遇到看不懂的技術名詞？對外文案太假？
+         │                               隨時叫「譯神」出來翻譯成白話、去 AI 味。
          │
-         ├─► ⌨️ Key神 (Awesome-Keyson)（本倉庫） ➔ 專案需註冊第三方平台、申請 API、過企業認證？
-         │                                       貼上網址交給「Key神」自動填表免手打。
+         ├─► ⌨️ Key神 (Awesome-Keyson) ➔ 專案需註冊第三方平台、申請 API Key、填寫繁瑣企業表單？
+         │                               貼上網址交給「Key神」安全自動填表，不用手打。
          │
          ▼ (系統開發完成，功能已驗收上線)
 【第三棒：產品交付與行銷宣傳】
-  🎬 剪神 (Awesome-Janson) ➔ 錄好的教學與發表影片，一鍵自動精修成長片與爆款短影音。
+  🎬 剪神 (Awesome-Janson) ➔ 錄好的系統操作教學、發表會影片，一鍵自動精修成長片與爆款短影音。
 ```
 
+### 家族成員倉庫速查
+
+* 📋 **[案神 Awesome-Anson](https://github.com/fishtvlvoe/Awesome-Anson)**：接案分析、商務報價、合約拆解與提案簡報架構
+* 🏗️ **[蓋神 Awesome-Gason](https://github.com/fishtvlvoe/Awesome-Gason)**：Spectra SDD 全自動開發總管（規格→TDD→多代理派工→CR→驗收）
+* 🗣️ **[譯神 Awesome-Eason](https://github.com/fishtvlvoe/Awesome-Eason)**：小白技術降維、台灣繁中去 AI 味與翻譯急救
+* ⌨️ **[Key神 Awesome-Keyson](https://github.com/fishtvlvoe/Awesome-Keyson)**（本倉庫）：自動 Key 單、智慧語意對齊與跨平台表單自動填寫
+* 🎬 **[剪神 Awesome-Janson](https://github.com/fishtvlvoe/Awesome-Janson)**：全能 AI 影片剪輯 Agent（長片精修、爆款短影音與動效）
+<!-- GODS-FAMILY:END -->
+
+---
 ### 家族成員倉庫速查
 
 * 📋 **[案神 Awesome-Anson](https://github.com/fishtvlvoe/Awesome-Anson)**：接案分析、商務報價、合約拆解與提案簡報
