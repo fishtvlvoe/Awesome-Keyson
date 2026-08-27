@@ -54,7 +54,6 @@
 
 * 📋 **[案神 Awesome-Anson](https://github.com/fishtvlvoe/Awesome-Anson)**：接案分析、商務報價、合約拆解與提案簡報架構
 * 🏗️ **[蓋神 Awesome-Gason](https://github.com/fishtvlvoe/Awesome-Gason)**：Spectra SDD 全自動開發總管（規格→TDD→多代理派工→CR→驗收）
-* 🎨 **[網頁設計師 Awesome-website-design](https://github.com/fishtvlvoe/Awesome-website-design)**：網頁企劃與部署執行者，整合 frontend-design、impeccable 等工具產出 HTML mockup 並自己部署上線
 * 🗣️ **[譯神 Awesome-Eason](https://github.com/fishtvlvoe/Awesome-Eason)**：小白技術降維、台灣繁中去 AI 味與翻譯急救
 * ⌨️ **[Key神 Awesome-Keyson](https://github.com/fishtvlvoe/Awesome-Keyson)**（本倉庫）：自動 Key 單、智慧語意對齊與跨平台表單自動填寫
 * 📊 **[待神 Awesome-Dyson](https://github.com/fishtvlvoe/Awesome-Dyson)**：跨專案開發儀表板：固定網址看現況、進度、待確認事項與歷史紀錄，換 CLI/AI 接手不用重新對焦
