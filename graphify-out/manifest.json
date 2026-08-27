@@ -1,0 +1,90 @@
+{
+  "/Users/fishtv/Development/Awesome-Keyson/test/field-matcher.test.ts": {
+    "mtime": 1786942067.0,
+    "hash": "1c182a2980f635396a5bc6a2c170415a"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/test/fill-runner.test.ts": {
+    "mtime": 1786941830.0,
+    "hash": "cb88caedf5be219aeb73ce31e233e998"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/test/vault.test.ts": {
+    "mtime": 1786942715.0,
+    "hash": "619eb18c05ee38574712dde96d3c04d4"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/scripts/prepare-cli.mjs": {
+    "mtime": 1786941653.0,
+    "hash": "69e2071cff09c8e6c57f21469612a57a"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/ego-browser-adapter.ts": {
+    "mtime": 1786942445.0,
+    "hash": "0934db912b1752d65e2b8e1b4e840473"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/storage-paths.ts": {
+    "mtime": 1786941901.0,
+    "hash": "3a0ef4991ca624c25f30d3c5c78bcc07"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/vault.ts": {
+    "mtime": 1786941901.0,
+    "hash": "e67d901068d829d6a3f3a517d77cee98"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/types.ts": {
+    "mtime": 1786941830.0,
+    "hash": "b0172f6dda4653bd635581f8dd938f8d"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/browser-adapter.ts": {
+    "mtime": 1786941994.0,
+    "hash": "a17e09e7b9d9fbd5cd8951416c11810a"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/dom-extractor.ts": {
+    "mtime": 1786942027.0,
+    "hash": "bd05ea9e8b8bee9f8ebe649978c5e830"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/fill-runner.ts": {
+    "mtime": 1786942027.0,
+    "hash": "23e7b50fb1c0ed0f90c04d636897c951"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/field-matcher.ts": {
+    "mtime": 1786942067.0,
+    "hash": "16f97401a21a9385e5d46214cd921f10"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/profile-schema.ts": {
+    "mtime": 1786942027.0,
+    "hash": "6430430c73151e1a9c9efa12ae3105ea"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/cli/init-command.ts": {
+    "mtime": 1786942899.0,
+    "hash": "dfe21917e1429817b58fb527d2a415e7"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/cli/prompts.ts": {
+    "mtime": 1786942329.0,
+    "hash": "31a71f046741c6bba29980ab6f79d1bd"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/cli/index.ts": {
+    "mtime": 1786942899.0,
+    "hash": "78d842ed9c881d794b8bee8e15eb33dc"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/src/cli/purge-command.ts": {
+    "mtime": 1786942136.0,
+    "hash": "b0f85d7c2a68f1042f8fc1cddb5eb030"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/README.md": {
+    "mtime": 1787358257.583577,
+    "hash": "1e747aafa58ffd7dce36ae30ae5c5a29"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/docs/ARCHITECTURE.md": {
+    "mtime": 1786941168.0,
+    "hash": "702de01c704477798f21d838ceb59e1c"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/docs/SECURITY-AND-PRIVACY.md": {
+    "mtime": 1786941168.0,
+    "hash": "97739b34a4339082bfec1c491a12c562"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/docs/ROADMAP-AND-MVP.md": {
+    "mtime": 1786941168.0,
+    "hash": "e50be154c07b88ea545e5181b64c00a5"
+  },
+  "/Users/fishtv/Development/Awesome-Keyson/assets/logo.jpg": {
+    "mtime": 1786950713.8428307,
+    "hash": "ae006ea61542d663007e51b059000b85"
+  }
+}
